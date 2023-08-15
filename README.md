@@ -11,6 +11,6 @@ https://github.com/srmfx/Zicroram
 https://github.com/srmfx/ProjectZICRORAM
 
 While the shareware version of the product is available to public,
-The main project & system has been made closed-source.
+the main project & system has been made closed-source.
 
 This repository is only being kept for reference.
