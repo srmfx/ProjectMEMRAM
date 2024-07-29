@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=srmfx&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=srmfx&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/srmfx/Zicroram)
 
 # ProjectMEMRAM
 Old Repository for the now Closed-Source Zicroram Software
