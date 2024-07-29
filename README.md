@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=srmfx&rank=SECRET,SSS,SS,S,AAA,AA,A" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=srmfx&rank=SECRET,SSS,SS,S,AAA,AA,A&row=1&column=-1"/>
+</div>
+
 # ProjectMEMRAM
 Old Repository for the now Closed-Source Zicroram Software
 
