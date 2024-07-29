@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=srmfx&rank=SECRET,SSS,SS,S,AAA,AA,A&row=1&column=-1"/>
-</div>
-
 # ProjectMEMRAM
 Old Repository for the now Closed-Source Zicroram Software
 
@@ -18,3 +14,8 @@ While the shareware version of the product is available to public,
 the main project & full system has been made closed-source.
 
 This repository is only being kept for reference.
+
+# About Author
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=srmfx&rank=SECRET,SSS,SS,S,AAA,AA,A&row=1&column=-1"/>
+</p>
