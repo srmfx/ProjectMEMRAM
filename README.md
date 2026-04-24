@@ -6,9 +6,9 @@ the system has thus been renamed to Zicroram and can be found here:
 
 1 - Shareware Version of the Product:
 https://github.com/srmfx/Zicroram
+https://gitlab.com/zicroram/Zicroram
 
-2 - Actual System Project(Closed Source Code, non-accessible)
-https://github.com/srmfx/ProjectZICRORAM
+2 - Actual System Project is private source-code.
 
 While the shareware version of the product is available to public,
 the main project & full system has been made closed-source.
