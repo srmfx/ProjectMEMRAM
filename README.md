@@ -1,19 +1,20 @@
 # ProjectMEMRAM
-Old Repository for the now Closed-Source Zicroram Software
+Old Repository for the current Closed-Source Zicroram Software
 
-This is what it once used to be the main repository for the Memram Project System I did at my University,
-the system has thus been renamed to Zicroram and can be found here:
+This github page once used to be the main repository for the Project Memram, Which is my 'Senior Capsed Project' that was developed by me at University for my Bachelor Degree.
+
+The program that was developed has been renamed to Zicroram and can be found here:
 
 1 - Shareware Version of the Product:
 https://github.com/srmfx/Zicroram
 https://gitlab.com/zicroram/Zicroram
 
-2 - Actual System Project is private source-code.
+2 - Current System Project is private source-code.
 
 While the shareware version of the product is available to public,
 the main project & full system has been made closed-source.
 
-This repository is only being kept for reference.
+This github page is only being kept here as a reference.
 
 # About Author
 ###### Author: Sebastião Ribeiro Monteiro Filho
